@@ -1,0 +1,9 @@
+{
+    "tokenAddress": "0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+    "tokenDecimal": 18,
+    "fromAddress": "0x00Fb8bCC77Ae86aab5e6D9Fa2e34bD2D6745570A",
+    "inputChrono":"./chrono_main.xlsx",
+    "web3HTTPProvider": "http://localhost:8545",
+    "timeOut": 180,
+    "blockAwaitBeforeConfirmation": 3
+}
